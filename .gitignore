@@ -1,0 +1,9 @@
+# Pasta de dependências do Node.js
+/node_modules/
+
+# Arquivos JavaScript que devem ser ignorados
+HelloWord.ts
+Entrada_De_Dados.ts
+Variaveis.ts
+
+/Atividades/
